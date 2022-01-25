@@ -6,6 +6,8 @@ You can easily create your @amail.az mail for using in any platform.
 
 You can use @amail.az mail for send e-mail to any mail.
 
+Project belongs to Mr.Rashad and Yer hosting(https://yer.az/en/).
+
 
 
 ![amail az scrnsht](https://user-images.githubusercontent.com/77200703/150198001-32412a7d-b67d-4547-9c3a-dab4384be53c.png)
